@@ -5,7 +5,8 @@
     "komisi_channel": 4,
     "min_member_grup": 60,
     "min_member_channel": 50,
-    "teks_share": "Hall\nHei\nRon"
+    "teks_share": "Hall\nHei\nRon",
+    "min_wd": 10000
   },
   "users": {
     "1342932763": {
