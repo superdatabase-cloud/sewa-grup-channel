@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "jeda_menit": 60,
+    "komisi_grup": 3000,
+    "komisi_channel": 4,
+    "min_member_grup": 60,
+    "min_member_channel": 50,
+    "teks_share": ""
+  },
+  "users": {
+    "8690131842": {
+      "name": "𝖨𝖹𝖠𝖭 || 𝖥𝖮𝖱 𝖡𝖫𝖠𝖲𝖳 (𝖲𝖤𝖶𝖠 𝖶𝖠 𝖫𝖠𝖭𝖦𝖲𝖴𝖭𝖦 𝖢𝖧𝖠𝖳 𝖠𝖩𝖠)",
+      "saldo": 0
+    }
+  },
+  "groups": {},
+  "withdrawals": {},
+  "next_wd": 1
+}
