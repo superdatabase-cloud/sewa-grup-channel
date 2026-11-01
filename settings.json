@@ -1,0 +1,9 @@
+{
+  "jeda_menit": 60,
+  "komisi_grup": 3,
+  "komisi_channel": 4000,
+  "min_member_grup": 60,
+  "min_member_channel": 50,
+  "min_wd": 10000,
+  "teks_items": []
+}
