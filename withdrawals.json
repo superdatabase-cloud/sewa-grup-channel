@@ -5,9 +5,10 @@
     "amount": 10000,
     "account_no": "081292020766",
     "account_name": "Erdi",
-    "status": "pending",
+    "status": "done",
     "created_at": 1793521916942,
     "expires_at": 1793608316942,
-    "last_queue": 1
+    "last_queue": 1,
+    "processed_at": 1793521943614
   }
 }
