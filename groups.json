@@ -10,5 +10,16 @@
     "last_slot": "20758-173",
     "rented_at": 1793512584049,
     "komisi_total": 48
+  },
+  "-1003964257544": {
+    "title": "PRODUK CRAZY",
+    "type": "channel",
+    "kind": "channel",
+    "owner_id": 8827246880,
+    "members": 135,
+    "active": true,
+    "last_slot": "20758-173",
+    "komisi_total": 0,
+    "rented_at": 1793517916179
   }
 }
