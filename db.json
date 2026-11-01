@@ -1,6 +1,6 @@
 {
   "settings": {
-    "jeda_menit": 60,
+    "jeda_menit": 1,
     "komisi_grup": 3,
     "komisi_channel": 4,
     "min_member_grup": 60,
