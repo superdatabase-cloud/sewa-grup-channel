@@ -7,7 +7,7 @@
     "members": 565,
     "fee": 3,
     "active": true,
-    "last_slot": "20758-178",
+    "last_slot": "20758-89",
     "rented_at": 1793512584049,
     "komisi_total": 63
   },
@@ -18,7 +18,7 @@
     "owner_id": 8827246880,
     "members": 135,
     "active": true,
-    "last_slot": "20758-178",
+    "last_slot": "20758-89",
     "komisi_total": 24,
     "rented_at": 1793517916179
   }
